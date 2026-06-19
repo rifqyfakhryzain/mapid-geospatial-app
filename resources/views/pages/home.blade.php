@@ -6,21 +6,7 @@
 @section('content')
 
     {{-- Navbar --}}
-    <nav class="max-w-6xl mx-auto px-6 py-6">
-        <div class="flex items-center justify-between border border-slate-300 rounded-2xl px-6 py-4">
-
-            <a href="/" class="font-bold text-xl">
-                MY PORTFOLIO
-            </a>
-
-            <div class="flex items-center gap-6 text-sm font-medium">
-                <a href="#about">About</a>
-                <a href="#projects">Projects</a>
-                <a href="/map">Map</a>
-            </div>
-
-        </div>
-    </nav>
+    <x-navbar />
 
     {{-- Hero --}}
     <section class="max-w-6xl mx-auto px-6 py-20">
