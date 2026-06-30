@@ -89,7 +89,7 @@
                     Mengembangkan platform knowledge sharing internal yang
                     mendukung publikasi artikel, sistem komentar, likes,
                     attachment management, serta integrasi penyimpanan cloud
-                    menggunakan AdonisJS dan PostgreSQL.
+                    menggunakan AdonisJS dan PostgreSQL
                 </p>
             </div>
 
