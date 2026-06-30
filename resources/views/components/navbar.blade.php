@@ -8,7 +8,7 @@
         <div class="flex items-center gap-6 text-sm font-medium">
 
             <a href="/#about" class="hover:text-slate-500 transition">
-                About
+                Abou
             </a>
 
             <a href="/#projects" class="hover:text-slate-500 transition">

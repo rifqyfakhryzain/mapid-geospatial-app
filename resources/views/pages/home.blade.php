@@ -82,7 +82,7 @@
 
             <div class="border rounded-3xl p-6">
                 <h3 class="text-2xl font-bold">
-                    Knowledge Hub
+                    Knowledge Hu
                 </h3>
 
                 <p class="mt-4 text-slate-600">
